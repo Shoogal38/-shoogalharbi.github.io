@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>شوق الحربي</title>
+  <style>
+    body {
+      font-family: 'Tahoma', sans-serif;
+      background-color: #f7f7f7;
+      color: #333;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #6E7540;
+    }
+    a {
+      color: #6E7540;
+      text-decoration: none;
+    }
+    .section {
+      margin: 20px 0;
+    }
+  </style>
+</head>
+<body>
+  <h1>شوق الحربي</h1>
+  <p>طالبة في جامعة القصيم - تخصص برمجة التطبيقات</p>
+
+  <div class="section">
+    <h2>المهارات</h2>
+    <ul style="list-style: none;">
+      <li>Java - HTML - CSS - Figma</li>
+      <li>iOS & Android Studio</li>
+      <li>Project Management & Client Relations</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>التواصل</h2>
+    <p><a href="mailto:your.email@example.com">your.email@example.com</a></p>
+    <p><a href="https://www.linkedin.com/in/your-profile">LinkedIn</a></p>
+  </div>
+</body>
+</html>
